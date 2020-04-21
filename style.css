@@ -1,0 +1,9 @@
+body{
+	margin:0;
+	background-image: url("back.jpg");
+}
+#mycanvas{
+	background-image: url(grid1.jpg);
+	border: 15px solid cornflowerblue;
+	border-radius: 8px;
+}
